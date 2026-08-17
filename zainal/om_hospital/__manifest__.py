@@ -29,7 +29,9 @@
     'depends': [],
 
     # Tempat mendaftarkan file XML/CSV (View, Data, Security)
-    'data': [],
+    'data': [
+        'views/patient_view.xml',
+    ],
 
     # Tempat mendaftarkan file demo data
     'demo': [],
